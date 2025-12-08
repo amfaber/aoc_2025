@@ -2,6 +2,7 @@ pub use glam;
 pub use ndarray;
 pub use once_cell::sync::Lazy;
 pub use rayon;
+pub use ordered_float;
 
 use ndarray::{Array, Array2};
 
